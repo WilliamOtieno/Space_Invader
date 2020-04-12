@@ -1,3 +1,8 @@
+#Space Invaders Game
+#Created by WilliamOtieno
+#Be sre to contribute anywhere you can, it is your GNU given right to fork
+
+
 import pygame
 import random
 import math
@@ -174,7 +179,6 @@ while running:
         bulletY -= bulletY_change 
     
     
-
     player(playerX, playerY)
     show_score(textX, textY)
     pygame.display.update()
