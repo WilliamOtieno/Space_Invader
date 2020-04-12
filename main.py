@@ -1,6 +1,5 @@
 #Space Invaders Game
 #Created by WilliamOtieno
-#Be sre to contribute anywhere you can, it is your GNU given right to fork
 
 
 import pygame
